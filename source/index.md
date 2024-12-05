@@ -18,3 +18,4 @@ docs/index
 api/index
 ```
 
+input.mol -O output.pdb --gen3d
